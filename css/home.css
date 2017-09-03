@@ -1,4 +1,8 @@
 @inport "common.css";
+body {
+  min-width: 1200px;
+  overflow-x: auto ;
+}
 .hh {
   height: 100px;
   vertical-align: bottom;
@@ -58,7 +62,7 @@
   flex-wrap: wrap;
 }
 .works-box .works-li {
-  width: 577px;
+  width: 30%;
   height: auto;
   transition: all .4s ease;
   padding: 10px;
