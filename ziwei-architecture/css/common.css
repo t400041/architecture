@@ -1,0 +1,15 @@
+* {
+  list-style: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.bw{width: 100%;}
+.bh{height: 100%;}
+.pa{position: absolute;}
+.pr{position: relative;}
+.oh{overflow: hidden;}
+.pf{position: fixed;}
+.db{display: block;}

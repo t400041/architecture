@@ -1,0 +1,47 @@
+{
+  "status":1,
+  "message":"",
+  "result":[
+    {
+      "bgSrc":"img/bg-index.jpg",
+      "bgAlt":"项目1"
+    },
+    {
+      "bgSrc":"img/bg-index2.jpg",
+      "bgAlt":"项目2"
+    },
+    {
+      "bgSrc":"img/bg-index3.jpg",
+      "bgAlt":"项目3"
+    },
+    {
+      "bgSrc":"img/bg-index4.jpg",
+      "bgAlt":"项目4"
+    },
+    {
+      "bgSrc":"img/bg-index5.jpg",
+      "bgAlt":"项目5"
+    },
+    {
+      "bgSrc":"img/bg-index6.jpg",
+      "bgAlt":"项目6"
+    },
+    {
+      "bgSrc":"img/bg-index7.jpg",
+      "bgAlt":"项目7"
+    },
+    {
+      "bgSrc":"img/bg-index8.jpg",
+      "bgAlt":"项目8"
+    },
+    {
+      "bgSrc":"img/bg-index9.jpg",
+      "bgAlt":"项目9"
+    },
+    {
+      "bgSrc":"img/bg-index10.jpg",
+      "bgAlt":"项目10"
+    }
+    
+  ]
+}
