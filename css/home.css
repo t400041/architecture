@@ -1,4 +1,8 @@
 @inport "common.css";
+@font-face {
+  font-family: arial;
+  src: url('../font/Arial.ttf');
+}
 body {
   min-width: 1200px;
   overflow-x: auto ;
@@ -31,7 +35,7 @@ body {
   float: left;
   text-align: right;
   transform: scaleY(1.2);
-  font-size: 24px;
+  font-size: 26px;
 }
 .hh > * {
   color: #949494;
