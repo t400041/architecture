@@ -8,6 +8,7 @@ body {
   vertical-align: bottom;
   line-height: 30px;
   z-index: 100;
+  font-family: arial sans-serif;
 }
 .hh nav {
   width: 600px;
@@ -62,10 +63,10 @@ body {
   flex-wrap: wrap;
 }
 .works-box .works-li {
-  width: 30%;
+  width: 32%;
   height: auto;
   transition: all .4s ease;
-  padding: 10px;
+  padding: 22px;
 }
 .works-box .works-li img {
   width: 100%;
